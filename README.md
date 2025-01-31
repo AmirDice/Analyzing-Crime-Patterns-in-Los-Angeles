@@ -1,9 +1,11 @@
 # Analyzing-Crime-Patterns-in-Los-Angeles
-##Project Description
+## Project Description
+
 Los Angeles, California, draws people from across the globe, presenting numerous opportunities—both positive and negative.
 In this project, I assist the Los Angeles Police Department (LAPD) in analyzing crime data to help optimize resource allocation and enhance public safety in the city.
 
-##Analysis Objectives
+## Analysis Objectives
+
 This analysis aims to uncover key crime patterns by examining the data to determine:
 
 - Peak Crime Hours: Identifying the time of day with the highest crime occurrence.

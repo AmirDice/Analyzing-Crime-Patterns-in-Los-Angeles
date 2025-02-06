@@ -1,4 +1,6 @@
 # Analyzing-Crime-Patterns-in-Los-Angeles
+![GettyImages-824890438](https://github.com/user-attachments/assets/ad19846b-b0bf-4a4b-a49e-c3d54ffd3ab0)
+
 ## Project Description
 
 Los Angeles, California, draws people from across the globe, presenting numerous opportunities—both positive and negative.
